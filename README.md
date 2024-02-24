@@ -18,3 +18,6 @@ Intel OneAPI seamlessly integrates with TensorFlow, allowing you to leverage its
 
 By seamlessly integrating Intel OneAPI cloud into our development workflow, we experienced remarkable improvements in both performance and efficiency. Harnessing the power of Intel OneAPI resulted in expedited model training and inference, facilitating faster iteration cycles and streamlining our development processes.
 In summary, the integration of Intel OneAPI significantly enhanced the speed, performance, and overall ease of developing our deep learning solution.
+
+## Sample Output Image
+<img src="/img />
