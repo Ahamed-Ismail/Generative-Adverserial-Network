@@ -20,4 +20,4 @@ By seamlessly integrating Intel OneAPI cloud into our development workflow, we e
 In summary, the integration of Intel OneAPI significantly enhanced the speed, performance, and overall ease of developing our deep learning solution.
 
 ## Sample Output Image
-<img src="/img />
+![alt text](/img.png)
